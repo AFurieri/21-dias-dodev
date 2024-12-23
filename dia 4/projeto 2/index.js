@@ -12,4 +12,4 @@ if(idade >= 18 && carteiraDeMotorista === "sim" && carro === "nao"){
 }
 if(idade >= 18 && carteiraDeMotorista === "sim" && carro === "sim"){
     console.log(nome + ", você será o motorista!")
-}
+} 

@@ -10,5 +10,5 @@ if(fome === "sim" && dinheiro === "sim" && restaurante === "nao"){
 }
 if(fome === "sim" && dinheiro === "sim" && restaurante === "sim"){
     console.log("hoje o jantar será em seu restaurante favorito!!!")
-}
+} 
     
